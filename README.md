@@ -1,2 +1,2 @@
-# cGAN
-a practice Pix2Pix GAN for Image-to-Image Translation
+# Pixel-level Domain Transfer
+pixel-level domain transfer
